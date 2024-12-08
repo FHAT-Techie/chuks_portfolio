@@ -1,0 +1,102 @@
+/* Full CSS Reset */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Set base display styles for HTML5 elements */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+/* Reset list styles */
+ol, ul {
+  list-style: none;
+}
+
+/* Reset quotes */
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+/* Reset table styles */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Remove default focus outlines */
+:focus {
+  outline: none;
+}
+
+/* Set a consistent base font and background color */
+body {
+  line-height: 1;
+  font-family: poppins, sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+/* Reset links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Reset images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Reset form elements */
+button, input, textarea, select {
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Reset box sizing */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+:root{
+  --body--small: 1rem;
+--body--small-link: 1rem;
+--body--semi-bold-small: 1rem;
+--body--mid: 1.33rem;
+--body--mid-link: 1.33rem;
+--body--semi-bold-mid: 1.33rem;
+--body--large: 1.67rem;
+--body--large-link: 1.67rem;
+--body--semi-bold-large: 1.67rem;
+--heading--h1: 5rem;
+--heading--h2: 4rem;
+--heading--h3: 3.33rem;
+--heading--h4: 2.67rem;
+--heading--h5: 2rem;
+--heading--h6: 1.67rem;
+
+}

@@ -1,0 +1,138 @@
+import lilac from './Image/logo/lilac.png';
+import devanddesign from './Image/logo/devanddesign.png';
+import eleazer from './Image/logo/eleazer.png';
+import newhorizon from './Image/logo/newhorizon.png';
+import uxlod from './Image/logo/uxlod.png';
+
+
+
+export default function CompanyLogoSection(){
+return(
+    <div className='companyLogoSection' >
+    <div className='companyLogoSlider'>
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+        <img src={lilac} alt="" />
+        <img src={devanddesign} alt="" />
+        <img src={eleazer} alt="" />
+        <img src={newhorizon} alt="" />
+        <img src={uxlod} alt="" />
+    </div>
+    </div>
+)
+}

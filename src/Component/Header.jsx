@@ -12,9 +12,9 @@ export default function Header() {
       </a>
 
       <div className="navigation">
-        <a href="https://github.com/FHAT-Techie">Github</a>
-        <a href="https://www.behance.net/chuksomeifeukwu">Behance</a>
-        <a href="https://dribbble.com/Fhatboy">Dribble</a>
+        <a href="https://github.com/FHAT-Techie" target='_Blank'>Github</a>
+        <a href="https://www.behance.net/chuksomeifeukwu"  target='_Blank'>Behance</a>
+        <a href="https://dribbble.com/Fhatboy" target='_Blank' >Dribble</a>
       </div>
     </div>
   );

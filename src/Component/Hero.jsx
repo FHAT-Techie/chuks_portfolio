@@ -1,8 +1,10 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLink } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLink } from "@fortawesome/free-solid-svg-icons";
+import { faComment } from '@fortawesome/free-solid-svg-icons';
 
-import myImage from './Image/myImage.png';
-import {Button} from './FormElements.jsx';
+
+import myImage from "./Image/myImage.png";
+import { Button } from "./FormElements.jsx";
 
 export default function Hero() {
   return (
@@ -12,13 +14,16 @@ export default function Hero() {
         <p>Hi, I’m Chuks Omeifeukwu</p>
       </div>
 
-      <h1>
+      <h1
+       className="sectionHeader"
+      >
         Building and designing impactful digital products, brands, and user experiences
       </h1>
 
       <Button
-        buttonLabel="Latest UI"
-        icon={<FontAwesomeIcon icon={faLink} />}
+        buttonLabel="Let's Talk"
+        icon={faComment}
+        buttonLink="https://wa.me/07067250098"
       />
     </div>
   );

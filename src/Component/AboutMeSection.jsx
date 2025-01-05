@@ -4,7 +4,12 @@ import { faRecycle } from "@fortawesome/free-solid-svg-icons";
 import { FaPen } from "react-icons/fa";
 import { AiOutlineLaptop } from "react-icons/ai";
 
+
 export default function AboutMeSection() {
+
+
+
+
   return (
     <div className="aboutMeSection">
       <h1>
@@ -31,6 +36,7 @@ export default function AboutMeSection() {
             header="Design Creativity"
             description="I design captivating interfaces that deeply resonate with your users."
           />
+           
           <AboutMeCard
             icon={<AiOutlineLaptop />}
             header="Technology"

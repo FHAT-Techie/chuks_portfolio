@@ -3,6 +3,8 @@ import GithubSection from "./Component/GithubSection.jsx"
 import Hero from "./Component/Hero.jsx"
 import CompanyLogoSection from './Component/CompanyLogoSection.jsx'
 import AboutMeSection from './Component/AboutMeSection.jsx'
+import UxSection from './Component/UxSection.jsx'
+import UiSection from './Component/UiSection.jsx'
 
 function App() {
 
@@ -13,7 +15,9 @@ function App() {
 <Hero/>
 <CompanyLogoSection/>
 <AboutMeSection/>
-<GithubSection/>
+<UxSection/>
+<UiSection/>
+{/* <GithubSection/> */}
     </>
   )
 }

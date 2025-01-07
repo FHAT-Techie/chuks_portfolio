@@ -5,6 +5,8 @@ import CompanyLogoSection from './Component/CompanyLogoSection.jsx'
 import AboutMeSection from './Component/AboutMeSection.jsx'
 import UxSection from './Component/UxSection.jsx'
 import UiSection from './Component/UiSection.jsx'
+import ContactUsSection from './Component/ContactUsSection.jsx'
+import Footer from './Component/Footer.jsx'
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
 <AboutMeSection/>
 <UxSection/>
 <UiSection/>
+<ContactUsSection/>
+<Footer/>
 {/* <GithubSection/> */}
     </>
   )

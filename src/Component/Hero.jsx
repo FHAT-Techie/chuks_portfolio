@@ -23,7 +23,7 @@ export default function Hero() {
       <Button
         buttonLabel="Let's Talk"
         icon={faComment}
-        buttonLink="https://wa.me/07067250098"
+        buttonLink="mailto:chuksomeifeukwu@gmail.com?subject=Let's Work Together&body=Hi Chuks,"
       />
     </div>
   );

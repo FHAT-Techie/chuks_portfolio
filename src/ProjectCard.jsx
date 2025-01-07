@@ -40,7 +40,7 @@ minWidth:"280px",
           style={{
             color: " #F0F0F0",
             fontFamily: "Poppins",
-            fontSize: "var(--Font-Size-Heading-h6, 20px)",
+            fontSize: "var(--Font-Size-Heading-h6, 18px)",
             fontStyle: "normal",
             fontWeight: 600,
             lineHeight: "var(--Line-Height-Heading-h6, 24px)", // 120%
